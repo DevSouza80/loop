@@ -1,23 +1,23 @@
 //While =  enquanto
 
-/*var x = 10;
+var x = 10;
 
 while(x < 30) {
     document.write("<br> O valor do X é: " + x);
 
     x++;
-}*/
+}
 
 // For = PARA
 
-/*var valor = 30;
+var valor = 30;
 
 for(a = 0; a < valor; a++) {
  // Oque tiver aqui dentro
  document.write("<br> Valor do A é:" + a);
 
  console.log(a + 10);
-}*/
+}
 
 
 // Switch
